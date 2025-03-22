@@ -1,6 +1,6 @@
 # esp32-lua-example
 
-ESP32 で Lua を使うサンプルプログラムです。
+ESP32 で Lua を使うサンプルプログラムです。詳しくは [解説記事](https://qiita.com/nanase/items/cef0fcd4d8bfabd28e43) をご覧ください。
 
 動作確認は M5Stack Basic / Visual Studio Code / PlatformIO で行っています。
 
@@ -51,7 +51,7 @@ $ platformio run --target upload --environment [環境名]
 
 このリポジトリの内容は以下を参考に作られました。
 
-- **lua in arduino-esp32**
+- **lua in arduino-esp32** \
   https://github.com/inajob/lua-in-arduino-esp32
 
 ## ライセンス
